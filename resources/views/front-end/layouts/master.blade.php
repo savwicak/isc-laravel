@@ -160,7 +160,6 @@
                 <p>Sport Fest</p>
                 <div class="portfolio-links">
                   <a href="front-end_asset/assets/img/gallery/sportfes1.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Sport Fest Round 2"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>
             </div>
@@ -173,9 +172,7 @@
                 <h4>Achieve more in October 3</h4>
                 <p>Achieve more in October</p>
                 <div class="portfolio-links">
-                  <a href="front-end_asset/assets/img/gallery/aciv3.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Waiting the announcement"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
-                </div>
+                  <a href="front-end_asset/assets/img/gallery/aciv3.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Waiting the announcement"><i class="bi bi-plus"></i></a>                </div>
               </div>
             </div>
           </div>
@@ -187,9 +184,7 @@
                 <h4>Sport Fest 2</h4>
                 <p>Sport Fest</p>
                 <div class="portfolio-links">
-                  <a href="front-end_asset/assets/img/gallery/sportfes2.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="9th Grade Contestant"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
-                </div>
+                  <a href="front-end_asset/assets/img/gallery/sportfes2.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="9th Grade Contestant"><i class="bi bi-plus"></i></a>                </div>
               </div>
             </div>
           </div>
@@ -201,9 +196,7 @@
                 <h4>Bounding 2</h4>
                 <p>Bounding</p>
                 <div class="portfolio-links">
-                  <a href="front-end_asset/assets/img/gallery/bonding2.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Eating together after playing"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
-                </div>
+                  <a href="front-end_asset/assets/img/gallery/bonding2.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Eating together after playing"><i class="bi bi-plus"></i></a>                </div>
               </div>
             </div>
           </div>
@@ -215,9 +208,7 @@
                 <h4>Achieve more in October 2</h4>
                 <p>Achieve more in Octoberb</p>
                 <div class="portfolio-links">
-                  <a href="front-end_asset/assets/img/gallery/aciv2.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="President and vice announcing"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
-                </div>
+                  <a href="front-end_asset/assets/img/gallery/aciv2.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="President and vice announcing"><i class="bi bi-plus"></i></a>                </div>
               </div>
             </div>
           </div>
@@ -229,9 +220,7 @@
                 <h4>Sport Fest 3</h4>
                 <p>Sport Fest</p>
                 <div class="portfolio-links">
-                  <a href="front-end_asset/assets/img/gallery/sportfes3.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="8th Grade Contestant"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
-                </div>
+                  <a href="front-end_asset/assets/img/gallery/sportfes3.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="8th Grade Contestant"><i class="bi bi-plus"></i></a>                </div>
               </div>
             </div>
           </div>
@@ -243,9 +232,7 @@
                 <h4>Bounding 1</h4>
                 <p>Bounding</p>
                 <div class="portfolio-links">
-                  <a href="front-end_asset/assets/img/gallery/bonding.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Participation of cat"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
-                </div>
+                  <a href="front-end_asset/assets/img/gallery/bonding.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Participation of cat"><i class="bi bi-plus"></i></a>                </div>
               </div>
             </div>
           </div>
@@ -257,9 +244,7 @@
                 <h4>Bounding 3</h4>
                 <p>Bounding</p>
                 <div class="portfolio-links">
-                  <a href="front-end_asset/assets/img/gallery/bonding3.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="While playing"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
-                </div>
+                  <a href="front-end_asset/assets/img/gallery/bonding3.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="While playing"><i class="bi bi-plus"></i></a>                </div>
               </div>
             </div>
           </div>
@@ -272,7 +257,6 @@
                 <p>Achieve more in October</p>
                 <div class="portfolio-links">
                   <a href="front-end_asset/assets/img/gallery/aciv.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="All the winners"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>
             </div>
@@ -485,7 +469,7 @@
           <p>Our Videos</p>
         </header>
         <div class="row gy-4">
-          <iframe width="100%" height="630px" src="https://www.youtube.com/embed/mtZlttU-a8M?si=jZairr_sD6IbES3n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          <iframe width="100%" height="630px" src="https://www.youtube.com/embed/ekxm-dDbHw8?si=TDqtogaF5TXj76dB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>
       </div>
     </section>
