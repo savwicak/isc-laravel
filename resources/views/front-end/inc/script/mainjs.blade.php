@@ -1,0 +1,1 @@
+<script src="front-end_asset/assets/js/main.js"></script>

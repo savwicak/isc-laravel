@@ -37,12 +37,23 @@ h6 {
   font-family: "Poppins", sans-serif;
 }
 
+.ig-post {
+  width: 50%;
+}
 /*--------------------------------------------------------------
 # Sections
 --------------------------------------------------------------*/
 section {
   padding: 60px 0;
   overflow: hidden;
+}
+.section-member {
+  text-align: left;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+.section-member-quote {
+  text-align: center;
 }
 
 .section-header {
@@ -66,6 +77,16 @@ section {
   line-height: 42px;
   font-weight: 700;
   color: #012970;
+}
+
+.section-member p {
+  margin: 10px 0 0 0;
+  padding: 0;
+  font-size: 38px;
+  line-height: 42px;
+  font-weight: 700;
+  color: #012970;
+  text-align: left;
 }
 
 @media (max-width: 768px) {
@@ -1671,7 +1692,7 @@ section {
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #ed3c0d;
+  background: #18a342;
   text-align: left;
   padding: 15px;
   margin-bottom: 24px;
