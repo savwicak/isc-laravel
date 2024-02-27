@@ -94,7 +94,7 @@
 
           <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
             <div class="box">
-              <img src="front-end_asset/assets/img/values-1.png" class="img-fluid" alt="">
+              <img src="front-end_asset/assets/img/aciv.png" class="img-fluid" alt="">
               <h3>Achieve more in October</h3>
               <p>Seluruh siswa berlomba-lomba untuk memenuhi tugas yang harus di kerjakan dan akan mendapat hadiah kepada 5 orang tercepat</p>
             </div>
@@ -102,7 +102,7 @@
 
           <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="400">
             <div class="box">
-              <img src="front-end_asset/assets/img/values-2.png" class="img-fluid" alt="">
+              <img src="front-end_asset/assets/img/bonding.png" class="img-fluid" alt="">
               <h3>Bounding</h3>
               <p>Mengumpulkan seluruh siswa idn untuk bekerja sama dalam suatu game dengan tujuan agar mengerti satu sama yang lain</p>
             </div>
@@ -287,12 +287,18 @@
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                assalamualaikum warahmatullahi wabarakatuh
+                Hi, my name is Bintang, I am currently in grade 7 of junior high school,
+                and attended the IDN Akhwat Islamic boarding school,
+                Since the existence of ISC, I feel I have become more productive
+                all daily activities are more organized
+                For example, those who used to sing often, now because there is ISC, are reminded more often not to sing because singing is haram in Islam. Apart from that, there are more things that can be obtained because of the ISC program, for example
+                ICOMFEST, SPORTFEST and many others. In essence, because of ISC we become more experienced :D. Thank you isc!!!
                 </p>
                 <div class="profile mt-auto">
                   <img src="front-end_asset/assets/img/testimonials/Testimonial.png" class="testimonial-img" alt="">
-                  <h3>Saul Goodman</h3>
-                  <h4>Ceo &amp; Founder</h4>
+                  <h3>Bintang Ilmi</h3>
+                  <h4>7th Grade Student</h4>
                 </div>
               </div>
             </div><!-- End testimonial item -->
@@ -303,13 +309,12 @@
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                Members of ISC's are so diligent and very responsible on their task! very admirable job indeed. Keep it up ISC!
                 </p>
                 <div class="profile mt-auto">
                   <img src="front-end_asset/assets/img/testimonials/Testimonial.png" class="testimonial-img" alt="">
-                  <h3>WLROWLEOEO
-                  </h3>
-                  <h4>Designer</h4>
+                  <h3>Princessa F.</h3>
+                  <h4>9th Grade Student</h4>
                 </div>
               </div>
             </div><!-- End testimonial item -->
@@ -320,12 +325,12 @@
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                Terima kasih banyak ISC yang telah mengadakan acara-acara di IDN yang unik juga menarik. Aku paling nunggu event ICOMFEST karena disana banyak lomba-lomba yang bisa diikuti. Juga, ISC punya anggota-anggota divisi yang nggak kalah keren. Tiap divisi punya tugasnya masing-masing yang dimana itu cukup berperan dalam ngebantu menjaga ketertiban, keamanan, kebersihan, kesehatan, hubungan antar sesama di IDN. Keep it up!
                 </p>
                 <div class="profile mt-auto">
                   <img src="front-end_asset/assets/img/testimonials/Testimonial.png" class="testimonial-img" alt="">
-                  <h3>Jena Karlis</h3>
-                  <h4>Store Owner</h4>
+                  <h3>Nafisya A. Putri</h3>
+                  <h4>8th Grade Student</h4>
                 </div>
               </div>
             </div><!-- End testimonial item -->
@@ -336,28 +341,26 @@
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                Terima kasih kepada isc, karena telah membuat program yang menarik dan menjadikan sekolah ini semakin tertib. Sukses terus isc
                 </p>
                 <div class="profile mt-auto">
                   <img src="front-end_asset/assets/img/testimonials/Testimonial.png" class="testimonial-img" alt="">
-                  <h3>Matt Brandon</h3>
-                  <h4>Freelancer</h4>
+                  <h3>Airin Azaria</h3>
+                  <h4>8th Grade Student</h4>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
-
+            </div>
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-                </p>
+                Menurut aku, ISC bagus banget dan berguna buat kita. Membuat kita lebih disiplin, pokoknya aku suka banget keberadaan ISC. Makasih ISC telah membuat kita lebih semangat! Makasih ISC telah membantu kita, makasih atas kerjasamanya. Semangat terus! Makasih ISC. I Love ISC. Aku makasih sama kak Quan dan kak Faiha udah mau menjadi ketua dan wakil dan mau membimbing dan mau bertanggung jawab. I love sis quan dan sis faiha.                </p>
                 <div class="profile mt-auto">
                   <img src="front-end_asset/assets/img/testimonials/Testimonial.png" class="testimonial-img" alt="">
-                  <h3>John Larson</h3>
-                  <h4>Entrepreneur</h4>
+                  <h3>Alesha Belvania</h3>
+                  <h4>7th Grade Student</h4>
                 </div>
               </div>
             </div><!-- End testimonial item -->
